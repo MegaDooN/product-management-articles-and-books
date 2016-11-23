@@ -5,5 +5,8 @@
 - [Why Strong Product Managers Pick Fights](http://www.huffingtonpost.com/brian-de-haaff/why-strong-product-manage_b_12545222.html) - Brian de Haaff 
 - [How to Pick Winning Product Features](https://medium.com/pm-insights/how-to-pick-winning-product-features-7b03abcf7d12) - Ameet Ranadive
 
+## Analytics
+- [Когортный анализ. Метрики продукта vs метрики роста.](http://gopractice.ru/cohort_analysis/)
+
 ### Product managers forum
 - [https://www.roadmap.com/](https://www.roadmap.com/)
